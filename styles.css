@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .navbar {
+    width: 200px; /* Adjust the width as needed */
+    height: 100vh;
+    background-color: #333; /* Set your desired background color */
+    color: #fff; /* Set your desired text color */
+  }
+  
+  .main-content {
+    flex-grow: 1;
+    padding: 20px; /* Adjust as needed */
+  }
