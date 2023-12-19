@@ -23,6 +23,10 @@
     padding:20px;
   }
   
+  li{
+    margin-bottom:15px;
+  }
+
   .nav-link{
     display:block;
     margin:5px;
@@ -47,7 +51,7 @@
     margin-bottom:35px;
   }
   
-  p{
+  p, ul{
     margin:25px;
   }
   
@@ -63,4 +67,8 @@
     box-sizing:content-box;
     display:block;
     border-radius:4px;
+  }
+
+  footer{
+    text-align:center;
   }
